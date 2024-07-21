@@ -68,7 +68,7 @@ pytz==2020.5
 pyuv==1.4.0
 PyYAML==5.4.1
 regex==2020.11.13
-requests==2.25.1
+requests==2.32.2
 rsa==4.5
 scandir==1.10.0
 scapy==2.4.4
