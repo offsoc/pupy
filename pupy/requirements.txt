@@ -12,7 +12,7 @@ Cython==0.25.2
 dateparser==0.7.6
 defusedxml==0.6.0
 dnslib==0.9.14
-dnspython==1.16.0
+dnspython==2.6.1
 dukpy==0.2.3
 ecdsa==0.13
 enum34==1.1.10
